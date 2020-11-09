@@ -1,0 +1,10 @@
+body{
+	background-color:  #ffcce6;
+}
+h1{
+	color:  #ff1a8c;
+}
+.encadrer-un-contenu{ 
+	border: 2px solid #ae0e68; 
+	padding: 10px;
+}

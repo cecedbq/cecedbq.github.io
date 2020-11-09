@@ -1,0 +1,31 @@
+body {
+	background-color: #ace8af;
+}
+p{ 
+	color: black;
+}
+p{
+	text-align:center;
+}
+h1{
+	text-align:center;
+}
+h1{ 
+	color: #27275c;
+}
+h1{
+	font-family: cursive pointillée;
+}
+h2{
+	font-family: Georgia
+}
+h2{
+	color: #6c6c94;
+}
+h3{
+	color: #ffffff
+}
+.encadrer-un-contenu{ 
+	border: 2px solid #04062e; 
+	padding: 10px; 
+  }
